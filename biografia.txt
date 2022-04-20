@@ -1,5 +1,6 @@
-Hola me llamo Carlo Rodriguez 
-Tengo 2 años
+Hola me llamo Carlos Rodriguez 
+Tengo 25 años
 Soy ingeniero en sistemas 
 Estudio en platzi 
 Estudio en Guatemala
+Trabajo como Dev
