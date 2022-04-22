@@ -1,7 +1,6 @@
-Hola me llamo Carlos Rodriguez 
-Tengo 25 años
+Hola me llamo Carlo Rodriguez 
+Tengo 24 años
 Soy ingeniero en sistemas 
 Estudio en platzi 
-Estudio en Mexico
-Trabajo como Dev y Conferencista 
 
+Hoy hablaremos mas sobre su persona
