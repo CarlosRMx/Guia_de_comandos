@@ -2,5 +2,5 @@ Hola me llamo Carlos Rodriguez
 Tengo 25 años
 Soy ingeniero en sistemas 
 Estudio en platzi 
-Estudio en Guatemala
+Estudio en Mexico
 Trabajo como Dev
