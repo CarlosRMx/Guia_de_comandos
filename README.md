@@ -48,3 +48,43 @@
 >**git push origin master:main** Enviamos los cambios ya fusionados en local a nuestro repositorio remoto
 >
 >**git pull origin main** Traemos los cambios del repositorio remoto a nuestro repositorio local
+>
+># Cambio de la url de nuestro repositorio usando un protocolo https a un ssh
+>
+>**git remote -v** Verifica la url de nuestro repositorio
+>
+>**git remote set-url origin (url en ssh o https)** Modifica la url con la que nos conectamos a nuestro repositorio remoto.
+
+# Manejo de Tags en Git
+
+>**git log --all** Muestra todos los commits sin importar nada
+>
+>**git log --all --graph --decorate --oneline** Vista de arbol para tener un mejor panorama de los commits.
+>
+>**git tag -a (nombre, lo recomendado es v0.1) -m "comentario" (id del commit)** Creamos un nuevo tag.
+>
+>**git show-ref --tags** Muestra el listado de tags con mas detalle.
+>
+>**git push origin --tags** Enviar los tags al repositorio remoto.
+>
+>**git tag -d (nombre del tag)** Eliminar el tag en el repositorio local
+>
+>**git push origin :refs/tags/(nombre del tag)** Eliminar los tags en el repositorio remoto.
+>
+# Manejo de ramas
+
+>**git show-branch** Ver las ramas.
+> 
+>**git show-branch --all** Ver todas las ramas con mas mas informacion.
+>
+>**git push origin (nombre de la rama)** Enviar ramas del repositorio local al remoto.
+>
+>**git branch -D (nombre de la rama)** Elimina una rama que ya no este en uso en el repositorio de trabajo local.
+>
+>**git push origin :(nombre de la rama)** Elimina una rama en el repositorio remoto.
+>
+# Pull Request
+
+>**Pull request** es una funcionalidad de Github (en Gitlab llamada _merge request_ y en Bitbucket _push request_), en la que un colaborador pide que revisen sus cambios antes de hacer _merge_ a una rama, normalmente _master_ (ahora conocida como _main_).
+
+>Al hacer un pull request, se genera una conversación que pueden seguir los demás usuarios del repositorio, así como autorizar y rechazar los cambios. 
