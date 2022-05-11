@@ -92,3 +92,4 @@
 
 >Creado por Carlos Rodriguez
 >Coloaborador primario Mario Miranda
+>Elaborado de manera open source
