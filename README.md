@@ -88,3 +88,6 @@
 >**Pull request** es una funcionalidad de Github (en Gitlab llamada _merge request_ y en Bitbucket _push request_), en la que un colaborador pide que revisen sus cambios antes de hacer _merge_ a una rama, normalmente _master_ (ahora conocida como _main_).
 
 >Al hacer un pull request, se genera una conversación que pueden seguir los demás usuarios del repositorio, así como autorizar y rechazar los cambios. 
+
+
+>Creado por Carlos Rodriguez
