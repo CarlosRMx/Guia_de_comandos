@@ -91,3 +91,4 @@
 
 
 >Creado por Carlos Rodriguez
+>Coloaborador primario Mario Miranda
